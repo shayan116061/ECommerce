@@ -53,8 +53,8 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/shayan116061/ecommerce.git
+cd ecommerce
 Install dependencies
 
 bash
